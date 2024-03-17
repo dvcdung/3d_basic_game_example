@@ -70,7 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-/[Aa]ssets/[Ff]antasy[Ss]kybox[Ff][Rr][Ee][Ee]
-/[Aa]ssets/ModularFirstPersonController
-/[Aa]ssets/Polytope Studio
